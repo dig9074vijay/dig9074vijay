@@ -3,7 +3,7 @@
 -   🎮 I’m currently working on Game Design and programming.
 -   🤖 I’m currently learning AI
 -   💬 Feel free to contact me
--   📇 How to reach me: medivyaprakash@gmail.com
+-   📇 How to reach me: dig9074vijay@gmail.com
 -   ❤ I love Community Building.
 
 <a href="https://github.com/dig9074vijay">
