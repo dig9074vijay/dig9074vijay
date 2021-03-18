@@ -3,8 +3,9 @@
 -   🎮 I’m currently working on **Game Design** and programming.
 -   🤖 I’m currently learning **AI**.
 -   💬 Feel free to contact me
--   📇 How to reach me: <a href="https://www.linkedin.com/in/dig9074vijay/"><img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  /></a><a href="https://twitter.com/dig9074vijay"><img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="mailto:digvijays.ug19.cs@nitp.ac.in"><img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 -   ❤ I love Community Building.
+-   <a href="https://www.linkedin.com/in/dig9074vijay/"><img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  /></a><a href="https://twitter.com/dig9074vijay"><img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="mailto:digvijays.ug19.cs@nitp.ac.in"><img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+
 
 <a href="https://github.com/dig9074vijay">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dig9074vijay&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue">
