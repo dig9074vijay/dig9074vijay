@@ -1,4 +1,4 @@
-# Hi there I am Digvijay Srivastava.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi! I am Digvijay Srivastava.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 -   🎮 I’m currently working on **Game Design** and programming.
 -   🤖 I’m currently learning **AI & Blockchain**.
